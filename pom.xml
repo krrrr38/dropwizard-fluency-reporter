@@ -4,7 +4,7 @@
 
     <groupId>com.krrrr38</groupId>
     <artifactId>dropwizard-fluency-reporter</artifactId>
-    <version>0.0.1</version>
+    <version>0.0.2-SNAPSHOT</version>
     <packaging>jar</packaging>
 
     <name>Fluentd Integration for Dropwizard Metrics</name>
@@ -32,7 +32,7 @@
         <url>https://github.com/krrrr38/dropwizard-fluency-reporter</url>
         <connection>scm:git:https://github.com/krrrr38/dropwizard-fluency-reporter.git</connection>
         <developerConnection>scm:git:https://github.com/krrrr38/dropwizard-fluency-reporter.git</developerConnection>
-        <tag>0.0.1</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <distributionManagement>
